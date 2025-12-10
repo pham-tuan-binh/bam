@@ -1,0 +1,1721 @@
+{
+    "mass": 0.1,
+    "length": 10.0,
+    "arm_mass": 0.1,
+    "kp": 400,
+    "vin": 5.0,
+    "motor": "xl330",
+    "trajectory": "sin_time_square",
+    "entries": [
+        {
+            "position": 0.0015339807878858025,
+            "speed": 0.023980823922402087,
+            "load": 0,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.020882010459899902,
+            "goal_position": 1.4210854715202004e-10,
+            "torque_enable": true
+        },
+        {
+            "position": 0.0015339807878858025,
+            "speed": 0.023980823922402087,
+            "load": 0,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.05611979961395264,
+            "goal_position": 0.0012283959780003465,
+            "torque_enable": true
+        },
+        {
+            "position": 0.0015339807878858025,
+            "speed": 0.023980823922402087,
+            "load": 8,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.09137916564941406,
+            "goal_position": 0.004971055463404048,
+            "torque_enable": true
+        },
+        {
+            "position": 0.0015339807878858025,
+            "speed": 0.023980823922402087,
+            "load": 8,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.12635529041290283,
+            "goal_position": 0.011133990879592796,
+            "torque_enable": true
+        },
+        {
+            "position": 0.004601942363656963,
+            "speed": 0.11990411961201045,
+            "load": 8,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.1614377498626709,
+            "goal_position": 0.01974715998334674,
+            "torque_enable": true
+        },
+        {
+            "position": 0.009203884727313927,
+            "speed": 0.1678657674568146,
+            "load": 9,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.19645416736602783,
+            "goal_position": 0.03083300280311084,
+            "torque_enable": true
+        },
+        {
+            "position": 0.01687378866674205,
+            "speed": 0.2398082392240209,
+            "load": 9,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.23138344287872314,
+            "goal_position": 0.044339082106981835,
+            "torque_enable": true
+        },
+        {
+            "position": 0.027611654181941336,
+            "speed": 0.2877698870688251,
+            "load": 10,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.26640498638153076,
+            "goal_position": 0.060243159424908974,
+            "torque_enable": true
+        },
+        {
+            "position": 0.03988350048502687,
+            "speed": 0.43165483060323756,
+            "load": 11,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.30138087272644043,
+            "goal_position": 0.0786309306538802,
+            "torque_enable": true
+        },
+        {
+            "position": 0.053689327575997314,
+            "speed": 0.40767400668083553,
+            "load": 10,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.3363715410232544,
+            "goal_position": 0.09939976941465116,
+            "torque_enable": true
+        },
+        {
+            "position": 0.07363107781851097,
+            "speed": 0.5755397741376502,
+            "load": 11,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.37130284309387207,
+            "goal_position": 0.1225533214947049,
+            "torque_enable": true
+        },
+        {
+            "position": 0.09203884727313838,
+            "speed": 0.551558950215248,
+            "load": 12,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.4063023328781128,
+            "goal_position": 0.14802399865281224,
+            "torque_enable": true
+        },
+        {
+            "position": 0.10891263593988043,
+            "speed": 0.5755397741376502,
+            "load": 12,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.44134950637817383,
+            "goal_position": 0.17591118607103284,
+            "torque_enable": true
+        },
+        {
+            "position": 0.1334563285460506,
+            "speed": 0.7194247176720626,
+            "load": 13,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.47642195224761963,
+            "goal_position": 0.20604129588509265,
+            "torque_enable": true
+        },
+        {
+            "position": 0.1610679827279924,
+            "speed": 0.7913671894392689,
+            "load": 14,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.5114531517028809,
+            "goal_position": 0.2383644884855177,
+            "torque_enable": true
+        },
+        {
+            "position": 0.19021361769781953,
+            "speed": 0.8393288372840731,
+            "load": 14,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.546471118927002,
+            "goal_position": 0.27280864145383077,
+            "torque_enable": true
+        },
+        {
+            "position": 0.22089323345553247,
+            "speed": 0.8872904851288773,
+            "load": 14,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.5813690423965454,
+            "goal_position": 0.3091576465643182,
+            "torque_enable": true
+        },
+        {
+            "position": 0.25464081078901657,
+            "speed": 0.9832137808184858,
+            "load": 16,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.6163221597671509,
+            "goal_position": 0.3472254729348469,
+            "torque_enable": true
+        },
+        {
+            "position": 0.28838838812250067,
+            "speed": 1.0311754286632897,
+            "load": 15,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.651384711265564,
+            "goal_position": 0.3871635250069571,
+            "torque_enable": true
+        },
+        {
+            "position": 0.32673790781964174,
+            "speed": 1.103117900430496,
+            "load": 16,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.6864244937896729,
+            "goal_position": 0.4286663829956035,
+            "torque_enable": true
+        },
+        {
+            "position": 0.3650874275167828,
+            "speed": 1.127098724352898,
+            "load": 16,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.721331000328064,
+            "goal_position": 0.4712878325840038,
+            "torque_enable": true
+        },
+        {
+            "position": 0.40650490878969503,
+            "speed": 1.1750603721977022,
+            "load": 17,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.7563905715942383,
+            "goal_position": 0.5149630995561564,
+            "torque_enable": true
+        },
+        {
+            "position": 0.44945637085049306,
+            "speed": 1.2470028439649086,
+            "load": 16,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.791406512260437,
+            "goal_position": 0.5595473520775682,
+            "torque_enable": true
+        },
+        {
+            "position": 0.49240783291129064,
+            "speed": 1.2709836678873108,
+            "load": 16,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.8263497352600098,
+            "goal_position": 0.6043337707787181,
+            "torque_enable": true
+        },
+        {
+            "position": 0.5353592949720887,
+            "speed": 1.2230220200425066,
+            "load": 19,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.861397385597229,
+            "goal_position": 0.6491286925256312,
+            "torque_enable": true
+        },
+        {
+            "position": 0.5767767762450009,
+            "speed": 1.1990411961201046,
+            "load": 18,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.8965086936950684,
+            "goal_position": 0.6938018601798043,
+            "torque_enable": true
+        },
+        {
+            "position": 0.6197282383057989,
+            "speed": 1.2470028439649086,
+            "load": 17,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.9317485094070435,
+            "goal_position": 0.737498042796398,
+            "torque_enable": true
+        },
+        {
+            "position": 0.6642136811544828,
+            "speed": 1.2709836678873108,
+            "load": 17,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 0.96685791015625,
+            "goal_position": 0.7801749946239337,
+            "torque_enable": true
+        },
+        {
+            "position": 0.7086991240031661,
+            "speed": 1.2709836678873108,
+            "load": 15,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.0018609762191772,
+            "goal_position": 0.8205713782750035,
+            "torque_enable": true
+        },
+        {
+            "position": 0.7516505860639642,
+            "speed": 1.2470028439649086,
+            "load": 14,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.0368467569351196,
+            "goal_position": 0.8585124358026265,
+            "torque_enable": true
+        },
+        {
+            "position": 0.7930680673368764,
+            "speed": 1.2230220200425066,
+            "load": 14,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.071832537651062,
+            "goal_position": 0.8932933618098393,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8344855486097886,
+            "speed": 1.1750603721977022,
+            "load": 13,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.1068925857543945,
+            "goal_position": 0.9243879843867902,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8713010875190443,
+            "speed": 1.055156252585692,
+            "load": 13,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.1419743299484253,
+            "goal_position": 0.9511342211806875,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9035146840646426,
+            "speed": 0.9352521329736816,
+            "load": 11,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.177032232284546,
+            "goal_position": 0.9727263111640746,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9311263382465844,
+            "speed": 0.8153480133616711,
+            "load": 11,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.2121360301971436,
+            "goal_position": 0.9885159963892045,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9556700308527546,
+            "speed": 0.6954438937496605,
+            "load": 9,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.247204303741455,
+            "goal_position": 0.9977691340696894,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9740778003073824,
+            "speed": 0.527578126292846,
+            "load": 8,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.2822469472885132,
+            "goal_position": 0.9997940493385843,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9878836273983529,
+            "speed": 0.3357315349136292,
+            "load": 7,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.3172179460525513,
+            "goal_position": 0.9939641454010749,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9924855697620094,
+            "speed": 0.14388494353441256,
+            "load": -9,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.3521918058395386,
+            "goal_position": 0.9797195570930758,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9909515889741245,
+            "speed": -0.047961647844804174,
+            "load": -12,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.3872504234313965,
+            "goal_position": 0.9564837874865029,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9802137234589248,
+            "speed": -0.2877698870688251,
+            "load": -14,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.422265887260437,
+            "goal_position": 0.9236569731033886,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9633399347921827,
+            "speed": -0.5035973023704439,
+            "load": -18,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.4572845697402954,
+            "goal_position": 0.8811384004449538,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9357282806102409,
+            "speed": -0.7673863655168668,
+            "load": -20,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.49229097366333,
+            "goal_position": 0.8284568038349658,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8958447801252145,
+            "speed": -1.055156252585692,
+            "load": -24,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.5288697481155396,
+            "goal_position": 0.7657386472102244,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8544272988523023,
+            "speed": -1.342926139654517,
+            "load": -30,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.563899278640747,
+            "goal_position": 0.6893457297839027,
+            "torque_enable": true
+        },
+        {
+            "position": 0.7961360289126476,
+            "speed": -1.6306960267233421,
+            "load": -32,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.5990221500396729,
+            "goal_position": 0.6061896865558141,
+            "torque_enable": true
+        },
+        {
+            "position": 0.731708835821451,
+            "speed": -1.894485089869765,
+            "load": -39,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.634158968925476,
+            "goal_position": 0.5131355104446086,
+            "torque_enable": true
+        },
+        {
+            "position": 0.6550097964271688,
+            "speed": -2.206235800860992,
+            "load": -43,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.669271469116211,
+            "goal_position": 0.411912797031446,
+            "torque_enable": true
+        },
+        {
+            "position": 0.5691068723055728,
+            "speed": -2.470024864007415,
+            "load": -50,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.70425283908844,
+            "goal_position": 0.3027438948211601,
+            "torque_enable": true
+        },
+        {
+            "position": 0.4755340442445486,
+            "speed": -2.7098331032314364,
+            "load": -51,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.739320993423462,
+            "goal_position": 0.18752320272945372,
+            "torque_enable": true
+        },
+        {
+            "position": 0.3742913122440963,
+            "speed": -2.949641342455457,
+            "load": -52,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 1.7743202447891235,
+            "goal_position": 0.06707937809479399,
+            "torque_enable": true
+        },
+        {
+            "position": 0.25770877236478773,
+            "speed": -3.2613920534466843,
+            "load": -54,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 1.8093643188476562,
+            "goal_position": -0.05722966467053735,
+            "torque_enable": true
+        },
+        {
+            "position": 0.13959225169759337,
+            "speed": -3.3573153491362926,
+            "load": -54,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.8443784713745117,
+            "goal_position": -0.18271402815415297,
+            "torque_enable": true
+        },
+        {
+            "position": 0.021475731030399015,
+            "speed": -3.4292578209034987,
+            "load": -51,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.8793998956680298,
+            "goal_position": -0.3074912808339596,
+            "torque_enable": true
+        },
+        {
+            "position": -0.1012427320004523,
+            "speed": -3.4532386448259005,
+            "load": -51,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.9146074056625366,
+            "goal_position": -0.4296333666371889,
+            "torque_enable": true
+        },
+        {
+            "position": -0.22549517581918943,
+            "speed": -3.5251811165931075,
+            "load": -47,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.9498155117034912,
+            "goal_position": -0.5472072376065988,
+            "torque_enable": true
+        },
+        {
+            "position": -0.34514567727426915,
+            "speed": -3.4292578209034987,
+            "load": -43,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 1.984876036643982,
+            "goal_position": -0.6562790416664481,
+            "torque_enable": true
+        },
+        {
+            "position": -0.46019423636569234,
+            "speed": -3.1654687577570755,
+            "load": -53,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.0198782682418823,
+            "goal_position": -0.7542697188548307,
+            "torque_enable": true
+        },
+        {
+            "position": -0.5660389107298016,
+            "speed": -2.925660518533055,
+            "load": -51,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.054905652999878,
+            "goal_position": -0.8391329325063173,
+            "torque_enable": true
+        },
+        {
+            "position": -0.65807775800294,
+            "speed": -2.685852279309034,
+            "load": -41,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.0899235010147095,
+            "goal_position": -0.9084463881379335,
+            "torque_enable": true
+        },
+        {
+            "position": -0.7455146629124214,
+            "speed": -2.446044040085013,
+            "load": -34,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.12491774559021,
+            "goal_position": -0.9595956981623577,
+            "torque_enable": true
+        },
+        {
+            "position": -0.8191457407309324,
+            "speed": -2.0863316812489816,
+            "load": -27,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.1599336862564087,
+            "goal_position": -0.9906847088678997,
+            "torque_enable": true
+        },
+        {
+            "position": -0.8759030298827013,
+            "speed": -1.6067152028009397,
+            "load": -19,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.19493567943573,
+            "goal_position": -0.9998960189773665,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9219224535192705,
+            "speed": -1.2470028439649086,
+            "load": -9,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.229887366294861,
+            "goal_position": -0.985976351362128,
+            "torque_enable": true
+        },
+        {
+            "position": -0.952602069276983,
+            "speed": -0.8153480133616711,
+            "load": 8,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.2648876905441284,
+            "goal_position": -0.9481884912620517,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9587379924285258,
+            "speed": -0.09592329568960835,
+            "load": 19,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.2999199628829956,
+            "goal_position": -0.8862660087023301,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9449321653375549,
+            "speed": 0.4556356545256397,
+            "load": 36,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.3350236415863037,
+            "goal_position": -0.8004713002841077,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9065826456404138,
+            "speed": 1.1750603721977022,
+            "load": 51,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.370187520980835,
+            "goal_position": -0.6920004059657187,
+            "torque_enable": true
+        },
+        {
+            "position": -0.8421554525492172,
+            "speed": 1.9184659137921671,
+            "load": 64,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 2.4054633378982544,
+            "goal_position": -0.5624914665066565,
+            "torque_enable": true
+        },
+        {
+            "position": -0.748582624488193,
+            "speed": 2.685852279309034,
+            "load": 73,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 2.4406574964523315,
+            "goal_position": -0.4152441131691203,
+            "torque_enable": true
+        },
+        {
+            "position": -0.6335340653967698,
+            "speed": 3.3573153491362926,
+            "load": 80,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.4759920835494995,
+            "goal_position": -0.2537092305125273,
+            "torque_enable": true
+        },
+        {
+            "position": -0.5031456984264904,
+            "speed": 3.8369318275843343,
+            "load": 84,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.511124014854431,
+            "goal_position": -0.08162173498983201,
+            "torque_enable": true
+        },
+        {
+            "position": -0.35281558121369727,
+            "speed": 4.220625010342768,
+            "load": 88,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.5460954904556274,
+            "goal_position": 0.09385150978295333,
+            "torque_enable": true
+        },
+        {
+            "position": -0.19021361769781953,
+            "speed": 4.580337369178799,
+            "load": 83,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 2.5812591314315796,
+            "goal_position": 0.26820468105278406,
+            "torque_enable": true
+        },
+        {
+            "position": -0.023009711818284817,
+            "speed": 4.7961647844804185,
+            "load": 76,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.616557478904724,
+            "goal_position": 0.43843748716848674,
+            "torque_enable": true
+        },
+        {
+            "position": 0.15186409800067846,
+            "speed": 4.988011375859634,
+            "load": 63,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 2.6517010927200317,
+            "goal_position": 0.5952604137342336,
+            "torque_enable": true
+        },
+        {
+            "position": 0.32673790781964174,
+            "speed": 4.988011375859634,
+            "load": 44,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.6869025230407715,
+            "goal_position": 0.7341279843021159,
+            "torque_enable": true
+        },
+        {
+            "position": 0.4893398713355195,
+            "speed": 4.700241488790809,
+            "load": 32,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.7220221757888794,
+            "goal_position": 0.8483117509962218,
+            "torque_enable": true
+        },
+        {
+            "position": 0.6381360077604268,
+            "speed": 4.220625010342768,
+            "load": 16,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.7570526599884033,
+            "goal_position": 0.9333508001117762,
+            "torque_enable": true
+        },
+        {
+            "position": 0.7669903939428204,
+            "speed": 3.621104412282715,
+            "load": 8,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.791979193687439,
+            "goal_position": 0.9848458164817374,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8697671067311585,
+            "speed": 2.925660518533055,
+            "load": 2,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.8269622325897217,
+            "goal_position": 0.9997958197037871,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9403302229738983,
+            "speed": 1.9664275616369715,
+            "load": 5,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.8620150089263916,
+            "goal_position": 0.9763371840926948,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9740778003073824,
+            "speed": 0.9352521329736816,
+            "load": -25,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.897059202194214,
+            "goal_position": 0.9137176637784816,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9710098387316108,
+            "speed": -0.1678657674568146,
+            "load": -46,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.9322644472122192,
+            "goal_position": 0.8129948415479752,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9311263382465844,
+            "speed": -1.1990411961201046,
+            "load": -71,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 2.967369794845581,
+            "goal_position": 0.6762454358460642,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8590292412159588,
+            "speed": -2.18225497693859,
+            "load": -95,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.002365827560425,
+            "goal_position": 0.5100560932029329,
+            "torque_enable": true
+        },
+        {
+            "position": 0.7501166052760784,
+            "speed": -3.1654687577570755,
+            "load": -121,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.0373733043670654,
+            "goal_position": 0.31937502552253044,
+            "torque_enable": true
+        },
+        {
+            "position": 0.6089903727905996,
+            "speed": -4.124701714653159,
+            "load": -130,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 3.0723841190338135,
+            "goal_position": 0.1127264906338364,
+            "torque_enable": true
+        },
+        {
+            "position": 0.4417864669110645,
+            "speed": -4.844126432325222,
+            "load": -128,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 3.1074464321136475,
+            "goal_position": -0.10208498262458297,
+            "torque_enable": true
+        },
+        {
+            "position": 0.25157284921324496,
+            "speed": -5.491608678230079,
+            "load": -114,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 3.1426029205322266,
+            "goal_position": -0.31456187741211217,
+            "torque_enable": true
+        },
+        {
+            "position": 0.04295146206079803,
+            "speed": -5.875301860988512,
+            "load": -94,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.1778188943862915,
+            "goal_position": -0.5148513752803219,
+            "torque_enable": true
+        },
+        {
+            "position": -0.1672039058795347,
+            "speed": -5.947244332755718,
+            "load": -72,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.2129541635513306,
+            "goal_position": -0.6924218837586088,
+            "torque_enable": true
+        },
+        {
+            "position": -0.3696893698804393,
+            "speed": -5.731416917454099,
+            "load": -45,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.2479573488235474,
+            "goal_position": -0.8357931574572214,
+            "torque_enable": true
+        },
+        {
+            "position": -0.5660389107298016,
+            "speed": -5.395685382540469,
+            "load": -18,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.283017873764038,
+            "goal_position": -0.9379678759484876,
+            "torque_enable": true
+        },
+        {
+            "position": -0.7255729126699082,
+            "speed": -4.580337369178799,
+            "load": -2,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.3180758953094482,
+            "goal_position": -0.992302253313435,
+            "torque_enable": true
+        },
+        {
+            "position": -0.8528933180644165,
+            "speed": -3.5251811165931075,
+            "load": 0,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.3531018495559692,
+            "goal_position": -0.9941183472359593,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9326603190344698,
+            "speed": -2.134293329093786,
+            "load": 10,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.3881157636642456,
+            "goal_position": -0.9417978946216073,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9556700308527546,
+            "speed": -0.5035973023704439,
+            "load": 36,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.423059582710266,
+            "goal_position": -0.836437518066501,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9357282806102409,
+            "speed": 0.6474822459048563,
+            "load": 85,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.45802104473114,
+            "goal_position": -0.6832324844950465,
+            "torque_enable": true
+        },
+        {
+            "position": -0.8713010875190443,
+            "speed": 1.942446737714569,
+            "load": 128,
+            "input_volts": 5.0,
+            "temp": 26,
+            "timestamp": 3.4931411743164062,
+            "goal_position": -0.4883633510950232,
+            "torque_enable": true
+        },
+        {
+            "position": -0.7593204900033923,
+            "speed": 3.3333345252138904,
+            "load": 154,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 3.5284324884414673,
+            "goal_position": -0.2612351134364171,
+            "torque_enable": true
+        },
+        {
+            "position": -0.6013204688511715,
+            "speed": 4.628299017023603,
+            "load": 168,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 3.563529372215271,
+            "goal_position": -0.01574090407671357,
+            "torque_enable": true
+        },
+        {
+            "position": -0.40650490878969503,
+            "speed": 5.635493621764492,
+            "load": 162,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 3.598548412322998,
+            "goal_position": 0.23143484264848468,
+            "torque_enable": true
+        },
+        {
+            "position": -0.18561167533416256,
+            "speed": 6.354918339436553,
+            "load": 141,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.633825421333313,
+            "goal_position": 0.4666149837181793,
+            "torque_enable": true
+        },
+        {
+            "position": 0.05675728915176892,
+            "speed": 6.714630698272585,
+            "load": 99,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.669232726097107,
+            "goal_position": 0.6760977954486953,
+            "torque_enable": true
+        },
+        {
+            "position": 0.2960582920619288,
+            "speed": 6.906477289651801,
+            "load": 47,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.7045185565948486,
+            "goal_position": 0.8430946753469178,
+            "torque_enable": true
+        },
+        {
+            "position": 0.5215534678811178,
+            "speed": 6.450841635126162,
+            "load": 9,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.7395867109298706,
+            "goal_position": 0.952769680066299,
+            "torque_enable": true
+        },
+        {
+            "position": 0.7179030087304801,
+            "speed": 5.491608678230079,
+            "load": 0,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.7748305797576904,
+            "goal_position": 0.9989375265691227,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8666991451553869,
+            "speed": 4.076740066808354,
+            "load": 0,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.8100438117980957,
+            "goal_position": 0.9757910197306847,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9480001269133265,
+            "speed": 2.2302166247833943,
+            "load": -35,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.845052719116211,
+            "goal_position": 0.8834048364662159,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9587379924285253,
+            "speed": 0.1678657674568146,
+            "load": -89,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 3.8800411224365234,
+            "goal_position": 0.7274179158639505,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9065826456404142,
+            "speed": -1.6067152028009397,
+            "load": -147,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.9150750637054443,
+            "goal_position": 0.5167083688233886,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8007379712763045,
+            "speed": -3.2134304056018794,
+            "load": -197,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 3.950088858604431,
+            "goal_position": 0.2656255925778824,
+            "torque_enable": true
+        },
+        {
+            "position": 0.6381360077604268,
+            "speed": -4.724222312713211,
+            "load": -219,
+            "input_volts": 5.0,
+            "temp": 26,
+            "timestamp": 3.9850594997406006,
+            "goal_position": -0.0074874381501428555,
+            "torque_enable": true
+        },
+        {
+            "position": 0.432582582183751,
+            "speed": -5.995205980600521,
+            "load": -203,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 4.020009756088257,
+            "goal_position": -0.2818540318497428,
+            "torque_enable": true
+        },
+        {
+            "position": 0.19174759848570533,
+            "speed": -7.00240058534141,
+            "load": -159,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.055009365081787,
+            "goal_position": -0.5367162942140308,
+            "torque_enable": true
+        },
+        {
+            "position": -0.0674951546669682,
+            "speed": -7.4580362398670506,
+            "load": -97,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.090075612068176,
+            "goal_position": -0.7514473557684987,
+            "torque_enable": true
+        },
+        {
+            "position": -0.3298058693954129,
+            "speed": -7.410074592022246,
+            "load": -38,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.125291705131531,
+            "goal_position": -0.9076168080643711,
+            "torque_enable": true
+        },
+        {
+            "position": -0.5783107570328867,
+            "speed": -6.8585156418069975,
+            "load": 0,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.160450577735901,
+            "goal_position": -0.9897700960143224,
+            "torque_enable": true
+        },
+        {
+            "position": -0.7715923363064774,
+            "speed": -5.491608678230079,
+            "load": 0,
+            "input_volts": 5.3,
+            "temp": 26,
+            "timestamp": 4.195542931556702,
+            "goal_position": -0.9888687847629991,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9050486648525284,
+            "speed": -3.5251811165931075,
+            "load": 18,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.230563521385193,
+            "goal_position": -0.9034602771853457,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9449321653375549,
+            "speed": -0.9352521329736816,
+            "load": 84,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 4.265547037124634,
+            "goal_position": -0.7392396307684714,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9111845880040708,
+            "speed": 1.1510795482753005,
+            "load": 168,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.300652623176575,
+            "goal_position": -0.5083664500047232,
+            "torque_enable": true
+        },
+        {
+            "position": -0.8084078752157331,
+            "speed": 3.069545462067467,
+            "load": 224,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.335732102394104,
+            "goal_position": -0.22957907123272736,
+            "torque_enable": true
+        },
+        {
+            "position": -0.6396699885483126,
+            "speed": 4.964030551937232,
+            "load": 250,
+            "input_volts": 5.0,
+            "temp": 26,
+            "timestamp": 4.370673775672913,
+            "goal_position": 0.07204073062884102,
+            "torque_enable": true
+        },
+        {
+            "position": -0.41264083194123735,
+            "speed": 6.54676493081577,
+            "load": 228,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 4.405627250671387,
+            "goal_position": 0.36791939595469,
+            "torque_enable": true
+        },
+        {
+            "position": -0.1487961364249073,
+            "speed": 7.57794035947906,
+            "load": 169,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.440816402435303,
+            "goal_position": 0.6328513814771708,
+            "torque_enable": true
+        },
+        {
+            "position": 0.14112623248547917,
+            "speed": 8.081537661849504,
+            "load": 83,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.476024508476257,
+            "goal_position": 0.840477059472114,
+            "torque_enable": true
+        },
+        {
+            "position": 0.4233786974564371,
+            "speed": 8.057556837927102,
+            "load": 1,
+            "input_volts": 5.3,
+            "temp": 26,
+            "timestamp": 4.5110626220703125,
+            "goal_position": 0.9669448630609049,
+            "torque_enable": true
+        },
+        {
+            "position": 0.6703496043060251,
+            "speed": 7.026381409263812,
+            "load": 0,
+            "input_volts": 5.5,
+            "temp": 26,
+            "timestamp": 4.546079754829407,
+            "goal_position": 0.9983626478863411,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8559612796401876,
+            "speed": 5.155877143316449,
+            "load": 0,
+            "input_volts": 5.4,
+            "temp": 26,
+            "timestamp": 4.581136345863342,
+            "goal_position": 0.9301983336277508,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9464661461254407,
+            "speed": 2.3980823922402092,
+            "load": -96,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.616288065910339,
+            "goal_position": 0.7669645877812931,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9326603190344702,
+            "speed": -0.6235014219824543,
+            "load": -189,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.651561975479126,
+            "goal_position": 0.5218772165055336,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8360195293976744,
+            "speed": -2.973622166377859,
+            "load": -277,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.686614990234375,
+            "goal_position": 0.2193136887224017,
+            "torque_enable": true
+        },
+        {
+            "position": 0.662679700366597,
+            "speed": -5.083934671549243,
+            "load": -298,
+            "input_volts": 5.0,
+            "temp": 26,
+            "timestamp": 4.721578001976013,
+            "goal_position": -0.1058367042634001,
+            "torque_enable": true
+        },
+        {
+            "position": 0.42798063982009404,
+            "speed": -6.834534817884594,
+            "load": -255,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 4.756562352180481,
+            "goal_position": -0.42256332107339734,
+            "torque_enable": true
+        },
+        {
+            "position": 0.1472621556370215,
+            "speed": -8.081537661849504,
+            "load": -178,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.7914711236953735,
+            "goal_position": -0.6950773768756559,
+            "torque_enable": true
+        },
+        {
+            "position": -0.15186409800067846,
+            "speed": -8.585134964219947,
+            "load": -72,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.826433777809143,
+            "goal_position": -0.892368565826711,
+            "torque_enable": true
+        },
+        {
+            "position": -0.44945637085049306,
+            "speed": -8.36930754891833,
+            "load": 0,
+            "input_volts": 5.4,
+            "temp": 26,
+            "timestamp": 4.8614585399627686,
+            "goal_position": -0.9915300285675583,
+            "torque_enable": true
+        },
+        {
+            "position": -0.7071651432152808,
+            "speed": -7.146285528875823,
+            "load": 0,
+            "input_volts": 5.7,
+            "temp": 26,
+            "timestamp": 4.896577715873718,
+            "goal_position": -0.9780035462538649,
+            "torque_enable": true
+        },
+        {
+            "position": -0.8805049722463578,
+            "speed": -4.772183960558015,
+            "load": 43,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.9316710233688354,
+            "goal_position": -0.8503198498735391,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9357282806102409,
+            "speed": -1.2230220200425066,
+            "load": 165,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 4.966633319854736,
+            "goal_position": -0.6221987819666367,
+            "torque_enable": true
+        },
+        {
+            "position": -0.8805049722463578,
+            "speed": 1.7506001463353524,
+            "load": 276,
+            "input_volts": 5.0,
+            "temp": 26,
+            "timestamp": 5.00154972076416,
+            "goal_position": -0.318908567840453,
+            "torque_enable": true
+        },
+        {
+            "position": -0.7378447589729933,
+            "speed": 4.292567482109973,
+            "load": 331,
+            "input_volts": 5.0,
+            "temp": 26,
+            "timestamp": 5.036609172821045,
+            "goal_position": 0.024427319627549408,
+            "torque_enable": true
+        },
+        {
+            "position": -0.5154175447295755,
+            "speed": 6.594726578660574,
+            "load": 320,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 5.071663022041321,
+            "goal_position": 0.3690795871334618,
+            "torque_enable": true
+        },
+        {
+            "position": -0.2285631373949606,
+            "speed": 8.153480133616709,
+            "load": 236,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 5.1067280769348145,
+            "goal_position": 0.6690484305663584,
+            "torque_enable": true
+        },
+        {
+            "position": 0.08743690490948142,
+            "speed": 9.016789794823184,
+            "load": 94,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 5.141848087310791,
+            "goal_position": 0.8871167881252676,
+            "torque_enable": true
+        },
+        {
+            "position": 0.4172427743048943,
+            "speed": 9.208636386202404,
+            "load": 0,
+            "input_volts": 5.4,
+            "temp": 26,
+            "timestamp": 5.17698860168457,
+            "goal_position": 0.99299267469811,
+            "torque_enable": true
+        },
+        {
+            "position": 0.6964272777000811,
+            "speed": 7.865710246547886,
+            "load": 0,
+            "input_volts": 5.9,
+            "temp": 26,
+            "timestamp": 5.212137937545776,
+            "goal_position": 0.9700405159793422,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8866408953979006,
+            "speed": 5.2518004390060575,
+            "load": -76,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 5.247268915176392,
+            "goal_position": 0.8190986937151211,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9418642037617833,
+            "speed": 1.2709836678873108,
+            "load": -227,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 5.282370448112488,
+            "goal_position": 0.557079633087531,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8728350683069301,
+            "speed": -2.254197448705796,
+            "load": -355,
+            "input_volts": 4.9,
+            "temp": 26,
+            "timestamp": 5.3173651695251465,
+            "goal_position": 0.2191834331144604,
+            "torque_enable": true
+        },
+        {
+            "position": 0.705631162427395,
+            "speed": -4.988011375859634,
+            "load": -389,
+            "input_volts": 5.0,
+            "temp": 26,
+            "timestamp": 5.352358937263489,
+            "goal_position": -0.15015414554245723,
+            "torque_enable": true
+        },
+        {
+            "position": 0.4555922940020354,
+            "speed": -7.290170472410235,
+            "load": -317,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 5.387334942817688,
+            "goal_position": -0.5013127304831824,
+            "torque_enable": true
+        },
+        {
+            "position": 0.15186409800067846,
+            "speed": -8.800962379521566,
+            "load": -194,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 5.422375917434692,
+            "goal_position": -0.78442774580568,
+            "torque_enable": true
+        },
+        {
+            "position": -0.17640779060684864,
+            "speed": -9.424463801504022,
+            "load": -48,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 5.4574795961380005,
+            "goal_position": -0.9585010033309754,
+            "torque_enable": true
+        },
+        {
+            "position": -0.5031456984264904,
+            "speed": -9.064751442667989,
+            "load": 0,
+            "input_volts": 5.8,
+            "temp": 26,
+            "timestamp": 5.492586016654968,
+            "goal_position": -0.9955612505659169,
+            "torque_enable": true
+        },
+        {
+            "position": -0.7654564131549351,
+            "speed": -7.338132120255039,
+            "load": 0,
+            "input_volts": 6.0,
+            "temp": 26,
+            "timestamp": 5.5277321338653564,
+            "goal_position": -0.8871517903563909,
+            "torque_enable": true
+        },
+        {
+            "position": -0.9111845880040708,
+            "speed": -3.5731427644379115,
+            "load": 187,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 5.563019156455994,
+            "goal_position": -0.6461319477711235,
+            "torque_enable": true
+        },
+        {
+            "position": -0.8958447801252145,
+            "speed": 0.7434055415944647,
+            "load": 355,
+            "input_volts": 4.8,
+            "temp": 26,
+            "timestamp": 5.598194599151611,
+            "goal_position": -0.30522214635826606,
+            "torque_enable": true
+        },
+        {
+            "position": -0.7608544707912781,
+            "speed": 4.076740066808354,
+            "load": 430,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 5.633542060852051,
+            "goal_position": 0.08386027409710141,
+            "torque_enable": true
+        },
+        {
+            "position": -0.5276893910326605,
+            "speed": 6.954438937496605,
+            "load": 358,
+            "input_volts": 4.9,
+            "temp": 26,
+            "timestamp": 5.668682932853699,
+            "goal_position": 0.463497997951057,
+            "torque_enable": true
+        },
+        {
+            "position": -0.2162912910918755,
+            "speed": 8.896885675211175,
+            "load": 239,
+            "input_volts": 5.1,
+            "temp": 26,
+            "timestamp": 5.703772187232971,
+            "goal_position": 0.770248185157137,
+            "torque_enable": true
+        },
+        {
+            "position": 0.12885438618239364,
+            "speed": 9.904080279952062,
+            "load": 58,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 5.738983511924744,
+            "goal_position": 0.9578547423801906,
+            "torque_enable": true
+        },
+        {
+            "position": 0.4862719097597483,
+            "speed": 9.88009945602966,
+            "load": 0,
+            "input_volts": 5.9,
+            "temp": 26,
+            "timestamp": 5.774850010871887,
+            "goal_position": 0.9936686633346608,
+            "torque_enable": true
+        },
+        {
+            "position": 0.7761942786701344,
+            "speed": 7.841729422625483,
+            "load": 0,
+            "input_volts": 6.0,
+            "temp": 26,
+            "timestamp": 5.810524225234985,
+            "goal_position": 0.8604826992462277,
+            "torque_enable": true
+        },
+        {
+            "position": 0.9188544919434989,
+            "speed": 3.7170277079723237,
+            "load": -243,
+            "input_volts": 5.2,
+            "temp": 26,
+            "timestamp": 5.845563650131226,
+            "goal_position": 0.5898191751202233,
+            "torque_enable": true
+        },
+        {
+            "position": 0.8881748761857864,
+            "speed": -1.1750603721977022,
+            "load": -420,
+            "input_volts": 4.8,
+            "temp": 26,
+            "timestamp": 5.880609512329102,
+            "goal_position": 0.21916415800669017,
+            "torque_enable": true
+        },
+        {
+            "position": 0.7332428166093363,
+            "speed": -4.724222312713211,
+            "load": -469,
+            "input_volts": 5.0,
+            "temp": 26,
+            "timestamp": 5.915877461433411,
+            "goal_position": -0.1901757730519013,
+            "torque_enable": true
+        },
+        {
+            "position": 0.46786414030512047,
+            "speed": -7.601921183401462,
+            "load": -286,
+            "input_volts": 4.9,
+            "temp": 26,
+            "timestamp": 5.951038718223572,
+            "goal_position": -0.5727075647545743,
+            "torque_enable": true
+        },
+        {
+            "position": 0.1487961364249073,
+            "speed": -9.18465556228,
+            "load": -184,
+            "input_volts": 5.0,
+            "temp": 26,
+            "timestamp": 5.9860193729400635,
+            "goal_position": -0.8552491797239486,
+            "torque_enable": true
+        }
+    ]
+}
