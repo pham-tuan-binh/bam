@@ -17,10 +17,6 @@ class DynamixelActuatorV2:
         self.baudrate = 57600
         self.timeout = 1
 
-        # result = os.system(f"setserial {port} low_latency")
-        # if result != 0:
-        #     raise Exception("Failed to set low latency mode (you can try: sudo apt install setserial)")
-
         self.controller = Xl330PyController(self.port, self.baudrate, self.timeout)
 
     def set_p_gain(self, gain: int):

@@ -3,8 +3,7 @@
 #ACTUATOR="erob80_100"
 #VAL_KP=25
 
-ACTUATOR="erob80_50"
-VAL_KP=10
+ACTUATOR="xl330"
 
 #ACTUATOR="mx64"
 #VAL_KP=8
@@ -12,7 +11,7 @@ VAL_KP=10
 #ACTUATOR="mx106"
 #VAL_KP=8
 
-DATA="data/$ACTUATOR"
+DATA="processed_data/"
 
 if [ $# -eq 0 ]; then
     echo "Usage: $0 <model>"
@@ -23,10 +22,9 @@ N=`ls output/fit_*.log|wc -w`
 N=$[$N + 1]
 mkdir -p output/
 
-python -m bam.fit --wandb --logdir $DATA \
+uv run -m bam.fit --logdir $DATA \
 	--model $1 \
 	--workers 1 --trials 10000 \
-	--validation_kp $VAL_KP \
 	--actuator $ACTUATOR \
 	--output $N \
 	> output/fit_$N.log 2>&1

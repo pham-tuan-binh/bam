@@ -17,6 +17,8 @@ actuators = {
     # Dynamixel MX series
     "mx64": lambda: MXActuator(Pendulum),
     "mx106": lambda: MXActuator(Pendulum),
+
+    # Dynamixel XL series
     "xl330": lambda: XLActuator(Pendulum),
     
     # eRob actuators with custom PD controller (mostly used in experiments to model
